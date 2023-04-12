@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "@google-cloud/functions": "^2.4.0",
     "@octokit/rest": "^16.16.3",
     "dotenv": "^16.0.3",
     "node-fetch": "^2.3.0",

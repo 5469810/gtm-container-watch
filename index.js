@@ -3,6 +3,7 @@ const Octokit = require('@octokit/rest')
 const fetch = require('node-fetch')
 const URL = require('url').URL;
 
+
 /**
  * Fetch a URL and try to grab the GTM ID assuming the standard implementation snippet
  * @param {string} url 
@@ -95,4 +96,5 @@ const gtmWatch = async event => {
 
 module.exports.gtmWatch = gtmWatch
 
+gtmWatch();
 
