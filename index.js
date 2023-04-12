@@ -94,7 +94,5 @@ const gtmWatch = async event => {
 
 }
 
-module.exports.gtmWatch = gtmWatch
-
 gtmWatch();
 
