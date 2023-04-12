@@ -1,6 +1,6 @@
 {
     "TARGETS": [
-        "https://real.de"
+        "https://prometriki.ru/"
     ],
     "TAG_MANAGER_BASEURL": "https://www.googletagmanager.com/gtm.js?id=",
     "GITHUB_REPO": "gtm-container-watch",
